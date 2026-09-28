@@ -9,3 +9,5 @@ python-dotenv
 typing_extensions
 uuid_utils
 uvicorn
+langchain
+python-multipart
